@@ -1,2 +1,2 @@
 # VagrantLab2
-2 VMs: httpd+mysql
+2 VMs: httpd+mariadb
